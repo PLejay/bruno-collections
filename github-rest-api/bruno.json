@@ -1,0 +1,13 @@
+{
+  "version": "1",
+  "name": "github rest api",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ],
+  "presets": {
+    "requestType": "http",
+    "requestUrl": "https://api.github.com"
+  }
+}
